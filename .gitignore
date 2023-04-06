@@ -34,3 +34,7 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+app/._page.tsx
+app/._globals.css
+._.gitignore
+._.env
