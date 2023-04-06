@@ -1,0 +1,10 @@
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model Todo{
+    id String @unique @default(cuid()) // add unique id
+    title String
+    description String? // can be left empty
+}

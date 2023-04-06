@@ -39,3 +39,8 @@ app/._globals.css
 ._.gitignore
 ._.env
 ._tailwind.config.js
+Prisma/._migrations
+Prisma/._schema.prisma
+Prisma/migrations/._20230406202444_added_model_of_todo
+Prisma/migrations/._migration_lock.toml
+Prisma/migrations/20230406202444_added_model_of_todo/._migration.sql
