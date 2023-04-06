@@ -44,3 +44,14 @@ Prisma/._schema.prisma
 Prisma/migrations/._20230406202444_added_model_of_todo
 Prisma/migrations/._migration_lock.toml
 Prisma/migrations/20230406202444_added_model_of_todo/._migration.sql
+._package.json
+._package-lock.json
+._.env.local
+._next-env.d.ts
+._pages
+pages/api/._auth
+pages/api/auth/._[...nextauth].ts
+pages/api/auth/._[...nextauth].ts
+pages/api/auth/._[...nextauth].ts
+Prisma/migrations/._20230406213521_removed_todo_added_user
+Prisma/migrations/20230406213521_removed_todo_added_user/._migration.sql
