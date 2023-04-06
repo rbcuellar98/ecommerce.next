@@ -38,3 +38,4 @@ app/._page.tsx
 app/._globals.css
 ._.gitignore
 ._.env
+._tailwind.config.js
