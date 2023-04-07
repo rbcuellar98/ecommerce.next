@@ -55,3 +55,6 @@ pages/api/auth/._[...nextauth].ts
 pages/api/auth/._[...nextauth].ts
 Prisma/migrations/._20230406213521_removed_todo_added_user
 Prisma/migrations/20230406213521_removed_todo_added_user/._migration.sql
+Prisma/migrations/20230407015414_added_stripecustomerid_to_the_user/._migration.sql
+Prisma/migrations/._20230407015414_added_stripecustomerid_to_the_user
+pages/api/auth/._[...nextauth].ts
