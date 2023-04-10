@@ -60,3 +60,4 @@ Prisma/migrations/20230407015414_added_stripecustomerid_to_the_user/._migration.
 Prisma/migrations/._20230407015414_added_stripecustomerid_to_the_user
 pages/api/auth/._[...nextauth].ts
 .env
+.env
